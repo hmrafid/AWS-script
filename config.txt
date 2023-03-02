@@ -1,0 +1,2 @@
+profile=rafid
+region=ap-southeast-1
